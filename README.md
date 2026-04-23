@@ -1,0 +1,2 @@
+# HINDI-SIGN-LANGUAGE-TO-SPEECH-CONVERSION-USING-ARTIFICIAL-NEURAL-NETWORK-AND-MEDIAPIPE
+This is a real-time Hindi Sign Language to speech system using MediaPipe 21-hand landmarks and a CNN classifier. Landmarks are normalized and classified into Hindi characters, with temporal buffering forming words and sentences, then converted to speech. The system is scalable, robust, and hardware-independent.
